@@ -2,3 +2,7 @@
 sarima_models/
 xgb_model/
 .ipynb_checkpoints/
+*.pkl
+sarima_models/
+xgb_model/
+.ipynb_checkpoints/
