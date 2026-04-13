@@ -63,9 +63,9 @@ Traffic congestion is a major problem in smart cities. This project builds a pre
 
 | Model | Validation RMSE |
 |---|---|
-| XGBoost | fill after running |
-| SARIMA | fill after running |
-| **Blended** | **fill after running** |
+| XGBoost | **6.56** |
+| SARIMA | **16.80** |
+| **Blended** | **9.13** |
 
 > Lower RMSE = better predictions
 
