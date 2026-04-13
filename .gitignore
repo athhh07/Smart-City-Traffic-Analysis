@@ -1,0 +1,4 @@
+*.pkl
+sarima_models/
+xgb_model/
+.ipynb_checkpoints/
